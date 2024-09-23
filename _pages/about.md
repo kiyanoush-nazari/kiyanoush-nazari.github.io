@@ -1,13 +1,73 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Biography"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a researcher and software engineer in the field of robotics. My primary expertise lies in robotic manipulation and developing data-driven solutions for real-world robotic challanges. I worked on plenty of robotic projects where I utilised AI models for intelligent robot planning and control using visual, tactile, and propioception feedback. 
+
+I started working with robots in my MSc in Mechatronics Engieering at a [surgical robotic research center](https://sinamed.ir/products/sina-flex-telesurgery) developing tele-operation controllers. I continued my journey by doing my PhD at [Intelligent Manipulation Lab](https://intmanlab.com/index.html) by conducting ground-braking research in tactile-based slip controllers in roboitc manipulation tasks. I am currently a postdoctoral research associate at [Lincoln Institute for Agri-Food Technology](https://www.lincoln.ac.uk/liat/) working on autonomous navigation and 3D modelling of different types of crops. You can find demonstrations of my robotic projects bellow.
+
+<style>
+  .custom-bullets ul {
+    list-style-type: none; /* Remove default bullet points */
+    padding-left: 0; /* Remove indentation */
+  }
+
+  .custom-bullets ul li {
+    margin-bottom: 10px; /* Add some space between list items */
+    list-style-image: none; /* Ensure no other bullet images */
+    display: flex;
+    align-items: center;
+  }
+
+  .custom-bullets ul li img {
+    width: 24px; /* Set the desired width */
+    height: 24px; /* Set the desired height */
+    margin-right: 10px; /* Space between the image and text */
+  }
+</style>
+
+<div style="display: flex; justify-content: space-between; gap: 1px;">
+  <div style="flex: 1; margin-right: 0px;">
+    <h2>Interests</h2>
+    <ul>
+      <li>Robotics</li>
+      <li>Data-Driven Control</li>
+      <li>Tactile Sensing</li>
+      <li>Machine Learning</li>
+      <li>Artificial Intelligence</li>
+    </ul>
+  </div>
+
+  <div style="flex: 1; margin-left: 0px;" class="custom-bullets">
+    <h2>Education</h2>
+    <ul>
+      <li><img src="/images/graduation.png" alt="Hat icon"> PhD in Computer Science, 2020-2024 <br> University of Lincoln</li>
+      <li><img src="/images/graduation.png" alt="Hat icon"> MSc in Mechatronics Engineering, 2014-2017 <br> Sharif University of Technology</li>
+      <li><img src="/images/graduation.png" alt="Hat icon"> BSc in Mechanical Engineering, 2010-2014 <br> Amirkabir University of Technology</li>
+    </ul>
+  </div>
+</div>
+
+
+Robotic Projects
+======
+### Project 1: Title of the Project
+**Description:**  
+A short paragraph describing your project. Include important details such as what the project is about, the technology stack, the challenges you faced, and what was achieved.
+
+**Video:**
+
+<div style="text-align: center;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/_v7zXF9FROo?si=hR4pP20js0BSIlxm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+**Related Paper:**  
+[Download the Paper](https://example.com/your-paper-link)
 
 A data-driven personal website
 ======
