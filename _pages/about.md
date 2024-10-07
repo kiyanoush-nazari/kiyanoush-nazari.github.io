@@ -9,7 +9,7 @@ redirect_from:
 
 I am a researcher and software engineer in the field of robotics. My primary expertise lies in robotic manipulation and developing data-driven solutions for real-world robotic challanges. I worked on plenty of robotic projects where I utilised AI models for intelligent robot planning and control using visual, tactile, and propioception feedback. 
 
-I started working with robots in my MSc in Mechatronics Engieering at a [surgical robotic research center](https://sinamed.ir/products/sina-flex-telesurgery) developing tele-operation controllers. I continued my journey by doing my PhD at [Intelligent Manipulation Lab](https://intmanlab.com/index.html) by conducting ground-braking research in tactile-based slip controllers in roboitc manipulation tasks. I am currently a postdoctoral research associate at [Lincoln Institute for Agri-Food Technology](https://www.lincoln.ac.uk/liat/) working on autonomous navigation and 3D modelling of different types of crops. You can find demonstrations of my robotic projects bellow.
+I started working with robots in my M.Sc. in Mechatronics Engieering at a [surgical robotic research center](https://sinamed.ir/products/sina-flex-telesurgery) developing tele-operation controllers. I continued my journey by doing my PhD at [Intelligent Manipulation Lab](https://intmanlab.com/index.html) by conducting ground-braking research in tactile-based slip controllers in roboitc manipulation tasks. I am currently a postdoctoral research associate at [Lincoln Institute for Agri-Food Technology](https://www.lincoln.ac.uk/liat/) working on autonomous navigation and 3D modelling of different types of crops. You can find demonstrations of my robotic projects bellow.
 
 <style>
   .custom-bullets ul {
@@ -47,29 +47,186 @@ I started working with robots in my MSc in Mechatronics Engieering at a [surgica
     <h2>Education</h2>
     <ul>
       <li><img src="/images/graduation.png" alt="Hat icon"> PhD in Computer Science, 2020-2024 <br> University of Lincoln</li>
-      <li><img src="/images/graduation.png" alt="Hat icon"> MSc in Mechatronics Engineering, 2014-2017 <br> Sharif University of Technology</li>
-      <li><img src="/images/graduation.png" alt="Hat icon"> BSc in Mechanical Engineering, 2010-2014 <br> Amirkabir University of Technology</li>
+      <li><img src="/images/graduation.png" alt="Hat icon"> MSc in Mechatronics Eng., 2014-2017 <br> Sharif University of Technology</li>
+      <li><img src="/images/graduation.png" alt="Hat icon"> BSc in Mechanical Eng., 2010-2014 <br> Amirkabir University of Technology</li>
     </ul>
   </div>
 </div>
-
+<br><br>
 
 Robotic Projects
 ======
-### Project 1: Title of the Project
-**Description:**  
-A short paragraph describing your project. Include important details such as what the project is about, the technology stack, the challenges you faced, and what was achieved.
+### Bio-inspired Trajectory Modulation for Slip Control in Robot Manipulation Tasks
+<span style="font-size: 0.8em;">*Nazari et al. Nature Machine Intelligence (2024)*</span>
 
-**Video:**
+In robotic pick-and-place tasks, preventing object slippage is critical. While grip force control is the traditional method, our research highlights trajectory modulation as a superior alternative in certain scenarios, especially when combined with predictive models. This approach offers a promising solution for enhancing robotic manipulation and slip control.
 
-<div style="text-align: center;">
+
+<div style="text-align: center; margin-bottom: 30px;">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/_v7zXF9FROo?si=hR4pP20js0BSIlxm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-**Related Paper:**  
-[Download the Paper](https://example.com/your-paper-link)
 
-A data-driven personal website
+<div style="display: flex; gap: 10px; align-items:center; margin-left: 200px; margin-bottom: 40px;">
+  
+  <!-- Paper Button with ArXiv Symbol -->
+  <a href="https://example.com/your-paper-link" target="_blank" style="text-decoration: none;">
+    <button style="display: inline-flex; align-items: center; background-color: #f5f5f5; color: black; border: none; padding: 8px 16px; border-radius: 5px; cursor: pointer; font-size: 16px;">
+      <!-- ArXiv Icon -->
+      <svg xmlns="http://www.w3.org/2000/svg" fill="black" viewBox="0 0 100 100" width="20" height="20" style="margin-right: 8px;">
+        <circle cx="50" cy="50" r="50" fill="gray"></circle>
+        <text x="50%" y="55%" font-size="40" fill="white" text-anchor="middle" alignment-baseline="middle">arX</text>
+      </svg>
+      Download Paper
+    </button>
+  </a>
+  
+  <!-- GitHub Button -->
+  <a href="https://github.com/your-github-repo" target="_blank" style="text-decoration: none; margin-left: 20px;">
+    <button style="display: inline-flex; align-items: center; background-color: #333; color: white; border: none; padding: 8px 16px; border-radius: 5px; cursor: pointer; font-size: 16px;">
+      <!-- GitHub Icon -->
+      <svg xmlns="http://www.w3.org/2000/svg" fill="white" viewBox="0 0 24 24" width="20" height="20" style="margin-right: 8px;">
+        <path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.726-4.042-1.416-4.042-1.416-.546-1.387-1.332-1.758-1.332-1.758-1.09-.744.083-.729.083-.729 1.205.084 1.84 1.237 1.84 1.237 1.07 1.835 2.809 1.305 3.495.998.108-.775.418-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.47-2.38 1.236-3.22-.124-.303-.536-1.523.117-3.176 0 0 1.008-.322 3.301 1.23a11.513 11.513 0 0 1 3.004-.404c1.02.005 2.044.138 3.002.404 2.292-1.553 3.297-1.23 3.297-1.23.655 1.653.243 2.873.12 3.176.77.84 1.234 1.91 1.234 3.22 0 4.61-2.803 5.625-5.475 5.92.43.372.812 1.103.812 2.222 0 1.606-.014 2.896-.014 3.287 0 .322.217.694.825.576C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"/>
+      </svg>
+      Code on GitHub
+    </button>
+  </a>
+
+</div>
+
+____________________________________________________________________________
+### Deep Functional Predictive Control (deep-FPC): Robot Pushing 3-D Cluster using Tactile Prediction
+<span style="font-size: 0.8em;">*Nazari et al. IROS (2023)*</span>
+
+This project proposes a data-driven controller using tactile predictions and Functional Predictive Control (d-FPC) to manage Physical Robot Interaction (PRI) in complex pushing tasks. Tested on a robot pushing a strawberry stem, the d-FPC successfully controls 3D object movement, offering a promising solution for PRI in robotic manipulation.
+
+
+<div style="text-align: center; margin-bottom: 30px;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/T_El6SxuDgo?si=SoqjT6paUd1xaNnk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+
+<div style="display: flex; gap: 10px; align-items:center; margin-left: 200px;margin-bottom: 40px;">
+  
+  <!-- Paper Button with ArXiv Symbol -->
+  <a href="https://example.com/your-paper-link" target="_blank" style="text-decoration: none;">
+    <button style="display: inline-flex; align-items: center; background-color: #f5f5f5; color: black; border: none; padding: 8px 16px; border-radius: 5px; cursor: pointer; font-size: 16px;">
+      <!-- ArXiv Icon -->
+      <svg xmlns="http://www.w3.org/2000/svg" fill="black" viewBox="0 0 100 100" width="20" height="20" style="margin-right: 8px;">
+        <circle cx="50" cy="50" r="50" fill="gray"></circle>
+        <text x="50%" y="55%" font-size="40" fill="white" text-anchor="middle" alignment-baseline="middle">arX</text>
+      </svg>
+      Download Paper
+    </button>
+  </a>
+  
+  <!-- GitHub Button -->
+  <a href="https://github.com/your-github-repo" target="_blank" style="text-decoration: none; margin-left: 20px;">
+    <button style="display: inline-flex; align-items: center; background-color: #333; color: white; border: none; padding: 8px 16px; border-radius: 5px; cursor: pointer; font-size: 16px;">
+      <!-- GitHub Icon -->
+      <svg xmlns="http://www.w3.org/2000/svg" fill="white" viewBox="0 0 24 24" width="20" height="20" style="margin-right: 8px;">
+        <path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.726-4.042-1.416-4.042-1.416-.546-1.387-1.332-1.758-1.332-1.758-1.09-.744.083-.729.083-.729 1.205.084 1.84 1.237 1.84 1.237 1.07 1.835 2.809 1.305 3.495.998.108-.775.418-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.47-2.38 1.236-3.22-.124-.303-.536-1.523.117-3.176 0 0 1.008-.322 3.301 1.23a11.513 11.513 0 0 1 3.004-.404c1.02.005 2.044.138 3.002.404 2.292-1.553 3.297-1.23 3.297-1.23.655 1.653.243 2.873.12 3.176.77.84 1.234 1.91 1.234 3.22 0 4.61-2.803 5.625-5.475 5.92.43.372.812 1.103.812 2.222 0 1.606-.014 2.896-.014 3.287 0 .322.217.694.825.576C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"/>
+      </svg>
+      Code on GitHub
+    </button>
+  </a>
+
+</div>
+____________________________________________________________________________
+
+### Proactive slip control by learned slip model and trajectory adaptation
+<span style="font-size: 0.8em;">*Nazari et al. CoRL (2022)*</span>
+
+This paper introduces a novel slip control method for robotic manipulation. Traditional approaches rely on increasing grip force, which may not be feasible or could damage delicate objects. Instead, we propose a data-driven predictive controller that uses an action-conditioned slip predictor and a constrained optimizer to avoid slip during movements. Tested in real robot experiments, the method effectively controls slip, even for objects not encountered during training.
+
+
+<div style="text-align: center; margin-bottom: 30px;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/DI9BkrVWnCI?si=Bnb49cP8Teyi3XSq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+
+<div style="display: flex; gap: 10px; align-items:center; margin-left: 200px;margin-bottom: 40px;">
+  
+  <!-- Paper Button with ArXiv Symbol -->
+  <a href="https://example.com/your-paper-link" target="_blank" style="text-decoration: none;">
+    <button style="display: inline-flex; align-items: center; background-color: #f5f5f5; color: black; border: none; padding: 8px 16px; border-radius: 5px; cursor: pointer; font-size: 16px;">
+      <!-- ArXiv Icon -->
+      <svg xmlns="http://www.w3.org/2000/svg" fill="black" viewBox="0 0 100 100" width="20" height="20" style="margin-right: 8px;">
+        <circle cx="50" cy="50" r="50" fill="gray"></circle>
+        <text x="50%" y="55%" font-size="40" fill="white" text-anchor="middle" alignment-baseline="middle">arX</text>
+      </svg>
+      Download Paper
+    </button>
+  </a>
+  
+  <!-- GitHub Button -->
+  <a href="https://github.com/your-github-repo" target="_blank" style="text-decoration: none; margin-left: 20px;">
+    <button style="display: inline-flex; align-items: center; background-color: #333; color: white; border: none; padding: 8px 16px; border-radius: 5px; cursor: pointer; font-size: 16px;">
+      <!-- GitHub Icon -->
+      <svg xmlns="http://www.w3.org/2000/svg" fill="white" viewBox="0 0 24 24" width="20" height="20" style="margin-right: 8px;">
+        <path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.726-4.042-1.416-4.042-1.416-.546-1.387-1.332-1.758-1.332-1.758-1.09-.744.083-.729.083-.729 1.205.084 1.84 1.237 1.84 1.237 1.07 1.835 2.809 1.305 3.495.998.108-.775.418-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.47-2.38 1.236-3.22-.124-.303-.536-1.523.117-3.176 0 0 1.008-.322 3.301 1.23a11.513 11.513 0 0 1 3.004-.404c1.02.005 2.044.138 3.002.404 2.292-1.553 3.297-1.23 3.297-1.23.655 1.653.243 2.873.12 3.176.77.84 1.234 1.91 1.234 3.22 0 4.61-2.803 5.625-5.475 5.92.43.372.812 1.103.812 2.222 0 1.606-.014 2.896-.014 3.287 0 .322.217.694.825.576C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"/>
+      </svg>
+      Code on GitHub
+    </button>
+  </a>
+
+</div>
+____________________________________________________________________________
+
+### Autonomous Black Grass Detection and Removal in Wheat Fields using Unmanned Ground Vehicle
+<span style="font-size: 0.8em;">*Nazari et al. JFR (2025)*</span>
+
+A fully autonomous unmanned ground vehicle (UGV) equipped with GPS-based navigation is designed for efficient black grass removal in wheat fields. The system utilizes an RGB camera to detect black grass and identify crop rows, enabling precise targeting. A mechanical tool, with an adjustable horizontal degree of freedom, ensures that only weeds are removed while avoiding crop damage. Upon detecting black grass, the tool descends to remove it and retracts after covering a 5-meter distance. A safety feature, based on LiDAR data, halts the mission if a human presence is detected, resuming operations once the area is clear.
+
+<div style="text-align: center; margin-bottom: 30px;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/FZkYsnHp6JM?si=Nj0HzMcypshDSfKi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+
+<div style="display: flex; gap: 10px; align-items:center; margin-left: 200px;margin-bottom: 40px;">
+  
+  <!-- Paper Button with ArXiv Symbol -->
+  <a href="https://example.com/your-paper-link" target="_blank" style="text-decoration: none;">
+    <button style="display: inline-flex; align-items: center; background-color: #f5f5f5; color: black; border: none; padding: 8px 16px; border-radius: 5px; cursor: pointer; font-size: 16px;">
+      <!-- ArXiv Icon -->
+      <svg xmlns="http://www.w3.org/2000/svg" fill="black" viewBox="0 0 100 100" width="20" height="20" style="margin-right: 8px;">
+        <circle cx="50" cy="50" r="50" fill="gray"></circle>
+        <text x="50%" y="55%" font-size="40" fill="white" text-anchor="middle" alignment-baseline="middle">arX</text>
+      </svg>
+      Download Paper
+    </button>
+  </a>
+  
+  <!-- GitHub Button -->
+  <a href="https://github.com/your-github-repo" target="_blank" style="text-decoration: none; margin-left: 20px;">
+    <button style="display: inline-flex; align-items: center; background-color: #333; color: white; border: none; padding: 8px 16px; border-radius: 5px; cursor: pointer; font-size: 16px;">
+      <!-- GitHub Icon -->
+      <svg xmlns="http://www.w3.org/2000/svg" fill="white" viewBox="0 0 24 24" width="20" height="20" style="margin-right: 8px;">
+        <path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.726-4.042-1.416-4.042-1.416-.546-1.387-1.332-1.758-1.332-1.758-1.09-.744.083-.729.083-.729 1.205.084 1.84 1.237 1.84 1.237 1.07 1.835 2.809 1.305 3.495.998.108-.775.418-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.47-2.38 1.236-3.22-.124-.303-.536-1.523.117-3.176 0 0 1.008-.322 3.301 1.23a11.513 11.513 0 0 1 3.004-.404c1.02.005 2.044.138 3.002.404 2.292-1.553 3.297-1.23 3.297-1.23.655 1.653.243 2.873.12 3.176.77.84 1.234 1.91 1.234 3.22 0 4.61-2.803 5.625-5.475 5.92.43.372.812 1.103.812 2.222 0 1.606-.014 2.896-.014 3.287 0 .322.217.694.825.576C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"/>
+      </svg>
+      Code on GitHub
+    </button>
+  </a>
+
+</div>
+________________________________________________________________________
+
+Talks
+=============
+
+  - **2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)**  
+    A talk on deep functional predictive conrtol for flexible objects manipulation.
+    <div style="text-align: center; margin-top: 30px; margin-bottom: 30px;">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/ghHnzUmhVGs?si=hMbYihAPZs2q6NzS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+
+  - **6th Annual Conference on Robot Learning (CoRL) 2022**  
+    A talk on proactive slip control using robot trajectory adaptation.
+
+  - **2021 Towards Autonomous Robotic Systems Conference (TAROS)**  
+    A talk on multi-modal deep predictive models for tactile state estimation.
+
+<!-- A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
@@ -106,4 +263,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
