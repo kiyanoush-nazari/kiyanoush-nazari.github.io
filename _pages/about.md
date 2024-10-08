@@ -67,7 +67,7 @@ In robotic pick-and-place tasks, preventing object slippage is critical. While g
 </div>
 
 
-<div style="display: flex; gap: 10px; align-items:center; margin-left: 5%; margin-bottom: 40px;">
+<div style="display: flex; gap: 10px; align-items:center; margin-left: 6%; margin-bottom: 40px;">
   
   <!-- Paper Button with ArXiv Symbol -->
   <a href="https://example.com/your-paper-link" target="_blank" style="text-decoration: none;">
@@ -106,7 +106,7 @@ This project proposes a data-driven controller using tactile predictions and Fun
 </div>
 
 
-<div style="display: flex; gap: 10px; align-items:center; margin-left: 5%;margin-bottom: 40px;">
+<div style="display: flex; gap: 10px; align-items:center; margin-left: 6%;margin-bottom: 40px;">
   
   <!-- Paper Button with ArXiv Symbol -->
   <a href="https://example.com/your-paper-link" target="_blank" style="text-decoration: none;">
@@ -145,7 +145,7 @@ This paper introduces a novel slip control method for robotic manipulation. Trad
 </div>
 
 
-<div style="display: flex; gap: 10px; align-items:center; margin-left: 5%;margin-bottom: 40px;">
+<div style="display: flex; gap: 10px; align-items:center; margin-left: 6%;margin-bottom: 40px;">
   
   <!-- Paper Button with ArXiv Symbol -->
   <a href="https://example.com/your-paper-link" target="_blank" style="text-decoration: none;">
@@ -183,7 +183,7 @@ A fully autonomous unmanned ground vehicle (UGV) equipped with GPS-based navigat
 </div>
 
 
-<div style="display: flex; gap: 10px; align-items:center; margin-left: 5%;margin-bottom: 40px;">
+<div style="display: flex; gap: 10px; align-items:center; margin-left: 6%;margin-bottom: 40px;">
   
   <!-- Paper Button with ArXiv Symbol -->
   <a href="https://example.com/your-paper-link" target="_blank" style="text-decoration: none;">
