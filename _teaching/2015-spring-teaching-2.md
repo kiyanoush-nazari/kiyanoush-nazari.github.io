@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "Agri-robotics"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "School of Computer Science, University of Lincoln"
+date: 2023-01-28
+location: "Lincoln, UK"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Real-robot exprimentation of stabilising an inverted pendulum on a robotic arm's gripper using tactile feedback.
 
 Heading 1
 ======

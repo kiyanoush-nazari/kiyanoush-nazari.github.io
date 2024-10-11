@@ -82,7 +82,7 @@ In robotic pick-and-place tasks, preventing object slippage is critical. While g
   </a>
   
   <!-- GitHub Button -->
-  <a href="https://github.com/your-github-repo" target="_blank" style="text-decoration: none; margin-left: 20px;">
+  <a href="https://github.com/imanlab/bgf" target="_blank" style="text-decoration: none; margin-left: 20px;">
     <button style="display: inline-flex; align-items: center; background-color: #333; color: white; border: none; padding: 8px 16px; border-radius: 5px; cursor: pointer; font-size: 16px;">
       <!-- GitHub Icon -->
       <svg xmlns="http://www.w3.org/2000/svg" fill="white" viewBox="0 0 24 24" width="20" height="20" style="margin-right: 8px;">
@@ -109,7 +109,7 @@ This project proposes a data-driven controller using tactile predictions and Fun
 <div style="display: flex; gap: 10px; align-items:center; margin-left: 6%;margin-bottom: 40px;">
   
   <!-- Paper Button with ArXiv Symbol -->
-  <a href="https://example.com/your-paper-link" target="_blank" style="text-decoration: none;">
+  <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10342410" target="_blank" style="text-decoration: none;">
     <button style="display: inline-flex; align-items: center; background-color: #f5f5f5; color: black; border: none; padding: 8px 16px; border-radius: 5px; cursor: pointer; font-size: 16px;">
       <!-- ArXiv Icon -->
       <svg xmlns="http://www.w3.org/2000/svg" fill="black" viewBox="0 0 100 100" width="20" height="20" style="margin-right: 8px;">
@@ -121,7 +121,7 @@ This project proposes a data-driven controller using tactile predictions and Fun
   </a>
   
   <!-- GitHub Button -->
-  <a href="https://github.com/your-github-repo" target="_blank" style="text-decoration: none; margin-left: 20px;">
+  <a href="https://github.com/knazari/strawberry_pushing_conrtol" target="_blank" style="text-decoration: none; margin-left: 20px;">
     <button style="display: inline-flex; align-items: center; background-color: #333; color: white; border: none; padding: 8px 16px; border-radius: 5px; cursor: pointer; font-size: 16px;">
       <!-- GitHub Icon -->
       <svg xmlns="http://www.w3.org/2000/svg" fill="white" viewBox="0 0 24 24" width="20" height="20" style="margin-right: 8px;">
@@ -148,7 +148,7 @@ This paper introduces a novel slip control method for robotic manipulation. Trad
 <div style="display: flex; gap: 10px; align-items:center; margin-left: 6%;margin-bottom: 40px;">
   
   <!-- Paper Button with ArXiv Symbol -->
-  <a href="https://example.com/your-paper-link" target="_blank" style="text-decoration: none;">
+  <a href="https://proceedings.mlr.press/v205/nazari23a/nazari23a.pdf" target="_blank" style="text-decoration: none;">
     <button style="display: inline-flex; align-items: center; background-color: #f5f5f5; color: black; border: none; padding: 8px 16px; border-radius: 5px; cursor: pointer; font-size: 16px;">
       <!-- ArXiv Icon -->
       <svg xmlns="http://www.w3.org/2000/svg" fill="black" viewBox="0 0 100 100" width="20" height="20" style="margin-right: 8px;">
@@ -160,7 +160,7 @@ This paper introduces a novel slip control method for robotic manipulation. Trad
   </a>
   
   <!-- GitHub Button -->
-  <a href="https://github.com/your-github-repo" target="_blank" style="text-decoration: none; margin-left: 20px;">
+  <a href="https://github.com/imanlab/proactive-slip-control" target="_blank" style="text-decoration: none; margin-left: 20px;">
     <button style="display: inline-flex; align-items: center; background-color: #333; color: white; border: none; padding: 8px 16px; border-radius: 5px; cursor: pointer; font-size: 16px;">
       <!-- GitHub Icon -->
       <svg xmlns="http://www.w3.org/2000/svg" fill="white" viewBox="0 0 24 24" width="20" height="20" style="margin-right: 8px;">
@@ -198,7 +198,7 @@ A fully autonomous unmanned ground vehicle (UGV) equipped with GPS-based navigat
   </a>
   
   <!-- GitHub Button -->
-  <a href="https://github.com/your-github-repo" target="_blank" style="text-decoration: none; margin-left: 20px;">
+  <a href="https://github.com/ionut94/ARWAC-project" target="_blank" style="text-decoration: none; margin-left: 20px;">
     <button style="display: inline-flex; align-items: center; background-color: #333; color: white; border: none; padding: 8px 16px; border-radius: 5px; cursor: pointer; font-size: 16px;">
       <!-- GitHub Icon -->
       <svg xmlns="http://www.w3.org/2000/svg" fill="white" viewBox="0 0 24 24" width="20" height="20" style="margin-right: 8px;">
@@ -225,6 +225,11 @@ Talks
 
   - **2021 Towards Autonomous Robotic Systems Conference (TAROS)**  
     A talk on multi-modal deep predictive models for tactile state estimation.
+
+
+<!-- command to run the website on a local machine: 
+    bundle exec jekyll serve --livereload -->
+
 
 <!-- A data-driven personal website
 ======

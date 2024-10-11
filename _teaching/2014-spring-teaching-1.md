@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Advanced Robotics"
 collection: teaching
-type: "Undergraduate course"
+type: "Post-graduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "School of Computer Science, University of Lincoln"
+date: 2022-09-20
+location: "Lincoln, UK"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Teaching and lab deomnstration of Probabilistic Movement Primitives with hands-on experiments with robotic manipulation systems.
 
 Heading 1
 ======
