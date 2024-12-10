@@ -211,6 +211,45 @@ A fully autonomous unmanned ground vehicle (UGV) equipped with GPS-based navigat
 </div>
 ________________________________________________________________________
 
+### Crop Digital Twinning Using Multimodal 3D Pointcloud Data Integration
+<span style="font-size: 0.8em;">*Sklar et al. IPPS8 (2025)*</span>
+
+Digital twins of crops enhance monitoring and breeding by simulating growth and health. We tackled challenges in combining UAV's global views with UGV's detailed, plant-level data using a collaborative data collection pipeline. A calibration rack and data fusion aligned UAV's GPS-based data with UGV's optical frame, creating unified 3D models. Tested on miscanthus crops, this method produces detailed, efficient digital twins for precision agriculture.
+
+<div style="text-align: center; margin-bottom: 30px;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/IgaBo2I-XU8?si=6phHZxBFb70UBsnW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+
+<div style="display: flex; gap: 10px; align-items:center; margin-left: 6%;margin-bottom: 40px;">
+  
+  <!-- Paper Button with ArXiv Symbol -->
+  <a href="https://example.com/your-paper-link" target="_blank" style="text-decoration: none;">
+    <button style="display: inline-flex; align-items: center; background-color: #f5f5f5; color: black; border: none; padding: 8px 16px; border-radius: 5px; cursor: pointer; font-size: 16px;">
+      <!-- ArXiv Icon -->
+      <svg xmlns="http://www.w3.org/2000/svg" fill="black" viewBox="0 0 100 100" width="20" height="20" style="margin-right: 8px;">
+        <circle cx="50" cy="50" r="50" fill="gray"></circle>
+        <text x="50%" y="55%" font-size="40" fill="white" text-anchor="middle" alignment-baseline="middle">arX</text>
+      </svg>
+      Download Paper
+    </button>
+  </a>
+  
+  <!-- GitHub Button -->
+  <a href="https://github.com/ionut94/ARWAC-project" target="_blank" style="text-decoration: none; margin-left: 20px;">
+    <button style="display: inline-flex; align-items: center; background-color: #333; color: white; border: none; padding: 8px 16px; border-radius: 5px; cursor: pointer; font-size: 16px;">
+      <!-- GitHub Icon -->
+      <svg xmlns="http://www.w3.org/2000/svg" fill="white" viewBox="0 0 24 24" width="20" height="20" style="margin-right: 8px;">
+        <path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.726-4.042-1.416-4.042-1.416-.546-1.387-1.332-1.758-1.332-1.758-1.09-.744.083-.729.083-.729 1.205.084 1.84 1.237 1.84 1.237 1.07 1.835 2.809 1.305 3.495.998.108-.775.418-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.47-2.38 1.236-3.22-.124-.303-.536-1.523.117-3.176 0 0 1.008-.322 3.301 1.23a11.513 11.513 0 0 1 3.004-.404c1.02.005 2.044.138 3.002.404 2.292-1.553 3.297-1.23 3.297-1.23.655 1.653.243 2.873.12 3.176.77.84 1.234 1.91 1.234 3.22 0 4.61-2.803 5.625-5.475 5.92.43.372.812 1.103.812 2.222 0 1.606-.014 2.896-.014 3.287 0 .322.217.694.825.576C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"/>
+      </svg>
+      Code on GitHub
+    </button>
+  </a>
+
+</div>
+____________________________________________________________________________
+
+
 Talks
 =============
 
