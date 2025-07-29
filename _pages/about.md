@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher and software engineer in the field of robotics. My primary expertise lies in robotic manipulation and developing data-driven solutions for real-world robotic challanges. I worked on plenty of robotic projects where I utilised AI models for intelligent robot planning and control using visual, tactile, and propioception feedback. 
+I am a robotic researcher with primary expertise in robotic manipulation and developing data-driven solutions for real-world robotic challanges. I worked on plenty of robotic projects where I utilised AI models for intelligent robot planning and control using visual, tactile, and propioception feedback. 
 
-I started working with robots in my M.Sc. in Mechatronics Engieering at a [surgical robotic research center](https://sinamed.ir/products/sina-flex-telesurgery) developing tele-operation controllers. I continued my journey by doing my PhD at [Intelligent Manipulation Lab](https://intmanlab.com/index.html) by conducting ground-braking research in tactile-based slip controllers in roboitc manipulation tasks. I am currently a postdoctoral research associate at [Lincoln Institute for Agri-Food Technology](https://www.lincoln.ac.uk/liat/) working on autonomous navigation and 3D modelling of different types of crops. You can find demonstrations of my robotic projects bellow.
+I started working with robots in my M.Sc. in Mechatronics Engieering at a [surgical robotic research center](https://sinamed.ir/products/sina-flex-telesurgery) developing tele-operation controllers. I continued my journey by doing my PhD at [Intelligent Manipulation Lab](https://intmanlab.com/index.html) by conducting ground-braking research in tactile-based slip controllers in roboitc manipulation tasks. In my previous role, I was a postdoctoral research associate at [Lincoln Institute for Agri-Food Technology](https://www.lincoln.ac.uk/liat/) working on autonomous navigation and 3D modelling of different types of crops. I am currently a postdoctoral research fellow at University College London (UCL) working on data-driven control design for electrical impedance tomography (EIT) based tactile sensing.
 
 <style>
   .custom-bullets ul {
@@ -57,7 +57,7 @@ I started working with robots in my M.Sc. in Mechatronics Engieering at a [surgi
 Robotic Projects
 ======
 ### Bio-inspired Trajectory Modulation for Slip Control in Robot Manipulation Tasks
-<span style="font-size: 0.8em;">*Nazari et al. Nature Machine Intelligence (2024)*</span>
+<span style="font-size: 0.8em;">*Nazari et al. Nature Machine Intelligence (2025)*</span>
 
 In robotic pick-and-place tasks, preventing object slippage is critical. While grip force control is the traditional method, our research highlights trajectory modulation as a superior alternative in certain scenarios, especially when combined with predictive models. This approach offers a promising solution for enhancing robotic manipulation and slip control.
 
@@ -70,7 +70,7 @@ In robotic pick-and-place tasks, preventing object slippage is critical. While g
 <div style="display: flex; gap: 10px; align-items:center; margin-left: 6%; margin-bottom: 40px;">
   
   <!-- Paper Button with ArXiv Symbol -->
-  <a href="https://example.com/your-paper-link" target="_blank" style="text-decoration: none;">
+  <a href="https://www.nature.com/articles/s42256-025-01062-2" target="_blank" style="text-decoration: none;">
     <button style="display: inline-flex; align-items: center; background-color: #f5f5f5; color: black; border: none; padding: 8px 16px; border-radius: 5px; cursor: pointer; font-size: 16px;">
       <!-- ArXiv Icon -->
       <svg xmlns="http://www.w3.org/2000/svg" fill="black" viewBox="0 0 100 100" width="20" height="20" style="margin-right: 8px;">
