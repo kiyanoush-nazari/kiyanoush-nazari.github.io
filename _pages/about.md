@@ -7,9 +7,23 @@ redirect_from:
   - /about.html
 ---
 
-I am a robotic researcher with primary expertise in robotic manipulation and developing data-driven solutions for real-world robotic challanges. I worked on plenty of robotic projects where I utilised AI models for intelligent robot planning and control using multi-modal sensory feedback. 
+<div style="text-align: justify; text-justify: inter-word;">
 
-I started working with robots in my M.Sc. in Mechatronics Engieering at a [surgical robotic research center](https://sinamed.ir/products/sina-flex-telesurgery) developing tele-operation controllers. I continued my journey by doing my PhD at [Intelligent Manipulation Lab](https://intmanlab.com/index.html) by conducting ground-braking research in developing tactile foundation models for predictive controllers in roboitc manipulation tasks. In my previous role, I was a postdoctoral research associate at [Lincoln Institute for Agri-Food Technology](https://www.lincoln.ac.uk/liat/) working on autonomous navigation and 3D modelling for robotic crop harvesting and monitoring. I am currently a senior research fellow at University College London (UCL) working on data-driven control design for electrical impedance tomography (EIT) based tactile sensing.
+<p>
+I am a robotic researcher with primary expertise in robotic manipulation and developing data-driven solutions for real-world robotic challenges. I worked on plenty of robotic projects where I utilised AI models for intelligent robot planning and control using multi-modal sensory feedback.
+</p>
+
+<p>
+I started working with robots in my M.Sc. in Mechatronics Engineering at a 
+<a href="https://sinamed.ir/products/sina-flex-telesurgery">surgical robotic research center</a>
+developing tele-operation controllers. I continued my journey by doing my PhD at
+<a href="https://intmanlab.com/index.html">Intelligent Manipulation Lab</a>
+by conducting ground-breaking research in developing tactile foundation models for predictive controllers in robotic manipulation tasks. In my previous role, I was a postdoctoral research associate at
+<a href="https://www.lincoln.ac.uk/liat/">Lincoln Institute for Agri-Food Technology</a>
+working on autonomous navigation and 3D modelling for robotic crop harvesting and monitoring. I am currently a senior research fellow at University College London (UCL) working on data-driven control design for electrical impedance tomography (EIT) based tactile sensing.
+</p>
+
+</div>
 
 <style>
   .custom-bullets ul {
